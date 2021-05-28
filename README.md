@@ -12,7 +12,8 @@ The user can Delete profile by providing password authentication before deleting
 ![Simulator Screen Shot - iPhone 11 Pro - 2021-05-28 at 13 41 20](https://user-images.githubusercontent.com/78885735/120022441-68eb3780-bfba-11eb-86b7-b31ac27af651.png)
 ![Simulator Screen Shot - iPhone 11 Pro - 2021-05-28 at 13 41 37](https://user-images.githubusercontent.com/78885735/120022480-743e6300-bfba-11eb-953d-59d02b66f66b.png)
 ![Simulator Screen Shot - iPhone 11 Pro - 2021-05-28 at 13 41 47](https://user-images.githubusercontent.com/78885735/120022497-7accda80-bfba-11eb-9621-99820b7728d1.png)
-![Simulator Screen Shot - iPhone 11 Pro - 2021-05-28 at 13 42 22](https://user-images.githubusercontent.com/78885735/120022545-8cae7d80-bfba-11eb-8a1f-70a1dd91cf3d.png)
+![Simulator Screen Shot - iPhone 11 Pro - 2021-05-28 at 13 44 19](https://user-images.githubusercontent.com/78885735/120023595-03984600-bfbc-11eb-9b03-7901b8548856.png)
+
 
 ![Simulator Screen Shot - iPhone 11 Pro - 2021-05-28 at 13 43 01](https://user-images.githubusercontent.com/78885735/120022876-034b7b00-bfbb-11eb-8c9b-c1c46bd45d2d.png)
 ![Simulator Screen Shot - iPhone 11 Pro - 2021-05-28 at 13 43 18](https://user-images.githubusercontent.com/78885735/120022884-047ca800-bfbb-11eb-9212-e9824b68a059.png)
